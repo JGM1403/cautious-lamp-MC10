@@ -1,0 +1,24 @@
+{
+    "name": "ideal-lamp-module-10-challenge",
+    "version": "1.0.0",
+    "description": "Module 10 Challenge",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Craigien/ideal-lamp-module-10-challenge.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Craigien/ideal-lamp-module-10-challenge/issues"
+    },
+    "homepage": "https://github.com/Craigien/ideal-lamp-module-10-challenge#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^24.9.0"
+    }
+  }
